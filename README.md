@@ -20,6 +20,6 @@
   6.Prediction on Client Data
 
   # Tech stack used:
-  Python
-  NLP
-  Machine Learning Algorithms
+  Python,
+  NLP,
+  Machine Learning Algorithms,
